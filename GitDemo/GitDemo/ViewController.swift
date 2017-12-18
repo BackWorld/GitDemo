@@ -13,7 +13,7 @@ class ViewController: UIViewController {
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		
-		print("test1 branch")
+		print("test2 branch")
 	}
 }
 
